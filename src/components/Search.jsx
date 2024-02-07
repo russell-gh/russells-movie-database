@@ -7,7 +7,7 @@ class search extends Component {
     return (
       <div>
         <form>
-          <label for="search">Search:</label>
+          <label htmlFor="search">Search:</label>
           <input
             onInput={onSearchInput}
             type="text"
