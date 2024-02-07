@@ -6,3 +6,7 @@
   background-color: coral;
   margin: 10px;
 }
+
+.star svg {
+  color: red;
+}
